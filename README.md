@@ -1,0 +1,2 @@
+# Ther-coder
+this is my first repository
